@@ -85,13 +85,13 @@ int main()
     {
         Charu(&tree,a[i]);
     }
-    printf("前序遍历\n");
+    printf("xianxvbianli\n");
     xxpl(tree.root);
     printf("\n");
-    printf("中序遍历\n");
+    printf("zhongxvbianli\n");
     zxbl(tree.root);
     printf("\n");
-    printf("后序遍历\n");
+    printf("houxvbianli\n");
     hxbl(tree.root);
 
 }
